@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="mainTextColour">#30475E</color>
+    <color name="white1">#ffff</color>
+
+    <color name="totalCaseTextColour">#C70039</color>
+    <color name="activeCaseTextColour">#0779E4</color>
+    <color name="recoveredCaseTextColour">#21bf73</color>
+    <color name="deathCaseTextColour">#30475e</color>
+
+    <color name="app6"> #e1f4f3</color>
+
+    <color name="totalCaseViewColour">#ffb0cd</color>
+    <color name="activeCaseViewColour">#d2fafb</color>
+    <color name="recoveredCaseViewColour">#beebe9</color>
+    <color name="deathCaseViewColour">#e1f4f3</color>
+
+
+</resources>

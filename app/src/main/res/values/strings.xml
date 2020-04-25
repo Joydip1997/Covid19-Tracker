@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Covid19-Tracker</string>
+
+
+    <string name="topCaption">Covid19-Tracker</string>
+
+    <string name="Update_Status">Late Updated</string>
+    <string name="Worldwide_Status">Worldwide Status</string>
+
+    <string name="boxViewCaption1">Confirmed</string>
+    <string name="boxViewCaption2">Active</string>
+    <string name="boxViewCaption3">Recovered</string>
+    <string name="boxViewCaption4">Deaths</string>
+
+    <string name="Top_3_Country">Top 3 Affected Country</string>
+    <string name="View_All_Country">View All</string>
+    <string name="India_Status">India Status</string>
+    <string name="View_All_India_Status">View All</string>
+    <string name="State_Status">Check Your State</string>
+    <string name="State_Name">State Name</string>
+    <string name="Error">No Data Available</string>
+
+
+</resources>
