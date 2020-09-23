@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.androdude.covid19ui
 
 import org.junit.Test
 

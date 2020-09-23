@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">covid19 UI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="are_you_feeling_sick">If you feel sick with any Covid-19 symptoms please call or SMS Govt immediately for help</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

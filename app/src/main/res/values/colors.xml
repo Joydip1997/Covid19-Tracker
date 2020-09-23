@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+  <color name="colorPrimary">#6200EE</color>
+  <color name="colorPrimaryDark">#3700B3</color>
+  <color name="colorAccent">#03DAC5</color>
+
+  <color name="colorWhite">#ffffff</color>
+  <color name="colorBlack">#000000</color>
+  <color name="blue">#4c79ff</color>
+  <color name="lighterBlue">#4c79ff</color>
+
+
+  <color name="colorGrad1">#57559f</color>
+  <color name="colorGrad2">#6c65ac</color>
+
+  <color name="colorRedButton">#ff4c58</color>
+  <color name="colorBlueButton">#4c79ff</color>
+
+
+  <color name="colorCardRed">#ff5959</color>
+  <color name="colorCardGreen">#4cd97b</color>
+  <color name="colorCardBlue">#4cb5ff</color>
+  <color name="colorCardYellow">#ffb259</color>
+  <color name="colorCardViolet">#9059ff</color>
+
+  <color name="colorImageBackground">#ffe5ee</color>
+
+
+
+
 </resources>

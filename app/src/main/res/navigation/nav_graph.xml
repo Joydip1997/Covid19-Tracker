@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.androdude.covid19ui.UI.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_indiaFragment"
+            app:destination="@id/indiaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/indiaFragment"
+        android:name="com.androdude.covid19ui.UI.IndiaFragment"
+        android:label="fragment_global"
+        tools:layout="@layout/fragment_global" >
+        <action
+            android:id="@+id/action_indiaFragment_to_globalFragment2"
+            app:destination="@id/globalFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/globalFragment2"
+        android:name="com.androdude.covid19ui.UI.GlobalFragment"
+        android:label="GlobalFragment" >
+        <action
+            android:id="@+id/action_globalFragment2_to_indiaFragment"
+            app:destination="@id/indiaFragment" />
+    </fragment>
+</navigation>
